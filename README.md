@@ -1,10 +1,46 @@
-# Getting Started with Create React App
+# Shopper Online Store - 2023
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Demo link:
+
+Access my site at :
+
+# Table of Content:
+
+About The App
+Screenshots
+Technologies
+Setup
+Approach
+Status
+Credits
+License
+
+# About The App
+
+Shopper is an webApp that ...
+
+# Technologies
+
+Used : React Js
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+# Status:
+
+In Progress
+
+# Credits
+
+Subham Prasad Panda
+Arup Kumar Padhi
+
+# License
+
+license @ SPP | AKP
 
 ### `npm start`
 
