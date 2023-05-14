@@ -1,4 +1,5 @@
 import React from 'react';
+import AdditionalConfig from '../../Configurations/AdditionalConfig';
 
 export default function ApplicationLayer() {
   return (
