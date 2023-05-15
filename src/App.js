@@ -1,5 +1,4 @@
-import './App.css';
-import ApplicationLayer from './Components/UI Window/index';
+import ApplicationLayer from "./Components/UI Window/index";
 
 function App() {
   return (
